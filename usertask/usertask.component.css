@@ -1,0 +1,9 @@
+/* .AB {
+  position: absolute;
+  right: 150px;
+  bottom: 50px;
+} */
+.dashboard-card-content {
+  height: 100%;
+  background-color: red;
+}
